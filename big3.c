@@ -23,5 +23,3 @@ biggest3()
     else
         printf("num3 is the greatest among three \n");
 }
-
-
